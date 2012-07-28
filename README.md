@@ -1,4 +1,5 @@
-meta-h8
-=======
 
-oe bsp for hitachi/renesas h8300 processors - specifically for medtronics insulin pumps. see bewest/insulaudit
+# Links
+[h8 gnu compiler](http://www.gnuh8.org/)
+[more gnu dev tools for h8](http://h8300-hms.sourceforge.net/)
+
